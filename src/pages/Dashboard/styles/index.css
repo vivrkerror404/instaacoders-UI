@@ -1,0 +1,12 @@
+/* customStyles.css */
+.custom-checkbox .form-check-input:checked ~ .form-check-label::before {
+    border-color: green!important; /* Change this to your desired color */
+    background-color: green!important; /* Change this to your desired color */
+  }
+  
+  /* Optional: To style the unchecked checkboxes, you can use the following styles */
+  .custom-checkbox .form-check-input:not(:checked) ~ .form-check-label::before {
+    border-color: red!important; /* Change this to your desired color */
+    background-color: red!important; /* Change this to your desired color */
+  }
+  

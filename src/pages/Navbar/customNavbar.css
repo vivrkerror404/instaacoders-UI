@@ -1,0 +1,12 @@
+/* customNavbar.css */
+.nav-tabs .nav-link.active {
+    border-bottom: 2px solid #47a358;
+    color:black;
+  }
+
+  .nav-tabs .nav-link, .nav-tabs{
+    border:none;
+    color:grey
+  }
+  
+  
