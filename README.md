@@ -15,6 +15,8 @@ This project consists of a frontend and a backend:
   - Min - Max price
   - Categories
 
+### netlify URL:
+`https://master--rainbow-platypus-163e25.netlify.app/`
 ## Backend
 
 - Created using `express-generator` at the backend.
